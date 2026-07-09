@@ -181,12 +181,3 @@ Please follow existing code style and include tests for any new logic.
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-
-Built by [Sagar Afar](https://github.com/Sagardevil). Feel free to open an issue or reach out for questions.
